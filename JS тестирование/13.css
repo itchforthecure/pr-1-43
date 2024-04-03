@@ -1,0 +1,11 @@
+input[data-type="success"] {
+    border: 2px solid green;
+}
+
+input[data-type="warning"] {
+    border: 2px solid yellow;
+}
+
+input[data-type="error"] {
+    border: 2px solid red;
+}
